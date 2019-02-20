@@ -62,6 +62,15 @@
             android:layout_marginTop="8dp"
             android:layout_marginBottom="8dp"
             android:text="Password" />
+        
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/rectangle"
+            android:text="Login me"
+            android:textAllCaps="false"
+            android:textColor="@android:color/white" />
+
 
     </LinearLayout>
 
